@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Netflix_img_files"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Netflix.com"
+	}
+}
